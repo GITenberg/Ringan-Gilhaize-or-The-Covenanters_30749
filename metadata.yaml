@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/588
     wikipedia: http://en.wikipedia.org/wiki/John_Galt
 description: Imperfect; all after p. 322 in vol 3 wanting.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30749#Ringan-Gilhaize-or-The-Covenanters
 gutenberg_issued: '2009-12-24'
 gutenberg_type: Text
 identifiers:
